@@ -1,0 +1,29 @@
+{
+  "name": "quickgame",
+  "version": "1.0.0",
+  "description": "quickGame.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chen",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.18.2",
+    "chance": "^1.0.13",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "ftx-api-rest": "0.0.4",
+    "jsonwebtoken": "^8.2.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.0.13",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "okcoin-china": "0.0.7",
+    "querystring": "^0.2.0",
+    "socket.io": "^2.1.1"
+  }
+}
