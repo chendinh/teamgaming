@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.2.1",
     "moment": "^2.24.0",
     "mongoose": "^5.0.13",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.2",
     "okcoin-china": "0.0.7",
     "querystring": "^0.2.0",
