@@ -24,6 +24,6 @@
     "nodemon": "^2.0.2",
     "okcoin-china": "0.0.7",
     "querystring": "^0.2.0",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   }
 }
